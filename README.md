@@ -10,9 +10,17 @@ Estos talleres están basados en el programa de Apple [Programación para Todos]
 
 ![calendar](images/calendar.png)
 
+---
+
 ## Temario
 
+1. Bloque 1: Rock, Paper, Scissors App 
+2. Bloque 2: All Around the World App 
+3. Bloque 3: To Do App
+4. Bloque 4: My Restaurant App 
+5. Bloque 5: Final App 
 
+---
 
 ## Referencias
 
@@ -26,4 +34,3 @@ Estos talleres están basados en el programa de Apple [Programación para Todos]
 Otros sitios recomendados:
 
 - **Paul Hudson. Swift in Sixty Seconds.** https://www.hackingwithswift.com/sixty
-
