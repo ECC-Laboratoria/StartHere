@@ -22,6 +22,13 @@ Estos talleres están basados en el programa de Apple [Programación para Todos]
 
 ---
 
+## Requerimientos
+
+- MacBook Air, MacBook Pro, iMac 
+- Instalar la última versión de [Xcode](https://apps.apple.com/us/app/xcode/id497799835?mt=12)
+
+---
+
 ### ¿Cómo vamos a estar trabajando?
 
 Para empezar a trabajar dentro de este taller es fundamental que tengas un perfil en Github. Si aún no lo tienes, crea uno pues será la base de todo este curso. A través de esta plataforma, estaremos subiendo las tareas a realizar y la documentación pertinente para el sprint en el que nos encontremos. 
