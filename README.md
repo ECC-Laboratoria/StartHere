@@ -27,6 +27,7 @@ Estos talleres están basados en el programa de Apple [Programación para Todos]
 - MacBook Air, MacBook Pro, iMac 
 - Instalar la última versión de [Xcode](https://apps.apple.com/us/app/xcode/id497799835?mt=12).
 - [Aprender a usar Git y GitHub](https://rogerdudler.github.io/git-guide/index.es.html). 
+- [Aprender a usar Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) (archivos cuya extensión es ```.md```) y descargar un editor correspondiente. Recomendamos [Typora](https://typora.io/).
 
 ---
 
