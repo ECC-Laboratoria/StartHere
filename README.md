@@ -44,7 +44,7 @@ Para empezar a trabajar dentro de este taller es fundamental que tengas un perfi
 5. Clona el repositorio que acabas de crear:
 - ```git clone https://github.com/tuusuario/ECC-Laboratoria ```
 6. Entra al repositorio que acabas de crear: 
-   
+  
    - ```cd ECC-Laboratoria```
    
 7. Para facilitarnos el proceso de creación de carpetas, usaremos shell scripting. 
