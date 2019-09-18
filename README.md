@@ -133,7 +133,7 @@ Toda la comunicación con los trainers la estarás llevando a través de Slack. 
 Sin embargo, si necesitas ayuda más personal no dudes en escribirnos a nuestros correos:
 
 - Néstor Martínez Ostoa | nestor.martinez.98@icloud.com | [nestorivanmo](https://github.com/nestorivanmo)
-- Joaquín Ramírez Vila | jramirez.vila@gmail.com | [rmzVila](https://github.com/rmzVila)
+- Joaquín Ramírez Vila | jramirez.vila@gmail.com 
 
 ---
 
