@@ -78,7 +78,7 @@ Para empezar a trabajar dentro de este taller es fundamental que tengas un perfi
 
       - [esc] + ```:wq```
 
-   5. Necesitamos darn permisos para que podamos ejecutar el script anterior:
+   5. Necesitamos dar permisos para que podamos ejecutar el script anterior:
 
       - ```chmod +x generateDirs```
 
